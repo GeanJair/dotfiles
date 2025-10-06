@@ -1,7 +1,9 @@
 font-family = JetBrainsMono Nerd Font
 font-size = 16
-window-padding-x = 30
-window-padding-y = 20
+window-padding-x = 100
+window-padding-y = 30
+maximize = true
+gtk-titlebar = false
 confirm-close-surface = false
 command = tmux attach-session -t main || tmux new-session -s main
-theme = Vague
+theme =  Espresso
