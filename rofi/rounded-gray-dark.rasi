@@ -1,0 +1,17 @@
+/* ROUNDED THEME FOR ROFI */
+/* Author: Newman Sanchez (https://github.com/newmanls) */
+
+* {
+    /* Cores atualizadas com a sua paleta */
+    bg0:    #141415F2; /* Black com 95% de opacidade */
+    bg1:    #1c1c24;   /* Shadow */
+    bg2:    #25253080; /* Graphite com 50% de opacidade */
+    bg3:    #333738F2; /* Onyx com 95% de opacidade */
+    
+    fg0:    #cdcdcd;   /* White */
+    fg1:    #c3c3d5;   /* Lilac (ou use #ffffff se preferir branco puro) */
+    fg2:    #878787;   /* Gray */
+    fg3:    #606079;   /* Muted */
+}
+
+@import "template/rounded-template.rasi"
