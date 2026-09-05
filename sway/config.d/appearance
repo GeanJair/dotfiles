@@ -1,0 +1,11 @@
+set $Green #89B482
+
+gaps outer 6
+gaps inner 4
+default_border pixel 3
+smart_borders on
+
+client.focused $Green $Green $Green $Green
+
+animation_duration_ms 250
+corner_radius 6
